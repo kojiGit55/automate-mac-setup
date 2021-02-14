@@ -1,0 +1,30 @@
+{
+  "entries": {
+    "cask": {
+      "alfred": {
+        "version": "4.3.1,1214",
+        "options": {
+          "full_name": "alfred"
+        }
+      },
+      "iterm2": {
+        "version": "3.4.4",
+        "options": {
+          "full_name": "iterm2"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "big_sur": {
+        "HOMEBREW_VERSION": "3.0.1",
+        "HOMEBREW_PREFIX": "/usr/local",
+        "Homebrew/homebrew-core": "088cb3986247d9f0ae7f0016b7fbb0b99425ef08",
+        "CLT": "12.4.0.0.1.1610135815",
+        "Xcode": "12.4",
+        "macOS": "11.2"
+      }
+    }
+  }
+}
